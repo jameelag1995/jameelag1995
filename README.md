@@ -49,11 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/socket-dot-io.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/material-ui.svg" color="#007fff"  height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/openai.svg" background-color="#fff" height="30" alt="bash logo"  />
+  <img src="https://icons8.com/icon/ka3InxFU3QZa/chatgpt" height="30" alt="bash logo"  />
 </div>
 
 ###

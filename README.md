@@ -53,7 +53,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/material-ui.svg" color="#007fff"  height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/openai.svg" color="#fff" height="30" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/openai.svg" background-color="#fff" height="30" alt="bash logo"  />
 </div>
 
 ###

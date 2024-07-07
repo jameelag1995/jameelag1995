@@ -1,4 +1,4 @@
-<h2 align="left">Hello I'm Jameel. A Full Stack Software/Web Developer </h2>
+<h2 align="left">Hello I'm Jameel. A Full Stack Web Developer </h2>
 
 ###
 

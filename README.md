@@ -1,5 +1,3 @@
-<h2 align="left">Hello I'm Jameel. A Full Stack Web Developer </h2>
-
 ###
 
 <div align="center">

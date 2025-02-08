@@ -8,9 +8,9 @@
 - 📫 How to reach me **Agbariajameel@gmail.com**
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jameelag1995&" alt="jameelag1995" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jameelag1995&show_icons=true&locale=en" alt="jameelag1995" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jameelag1995&show_icons=true&locale=en&layout=compact" alt="jameelag1995" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jameelag1995&" alt="jameelag1995" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jameelag1995&show_icons=true&locale=en" alt="jameelag1995" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jameelag1995&show_icons=true&locale=en&layout=compact" alt="jameelag1995" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
